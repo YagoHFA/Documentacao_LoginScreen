@@ -150,5 +150,5 @@ Criar um cenário de teste documentado realizado em Junit, seguindo padrão TDD(
         }
     }
 <p>
-    Após o código ser documentado é só gerar o Javadoc.
+    Após o código ser documentado corretamente, pode-se gerar o arquivo Javadoc.
 </p>
